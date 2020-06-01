@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Yaktocat](https://30a.com/wp-content/uploads/2019/06/Untitled-design-20.png)
